@@ -23,9 +23,9 @@ plugins:
 title: "Documentation plugins Jeedom"
 description: "Documentation des plugins Jeedom développés par M1R4G376."
 author: "M1R4G376"
-image: https://m1r4g3.github.io/jeedom-plugins-doc/icon.png
+image: https://m1r4g376.github.io/jeedom-plugins-doc/icon.png
 social:
   name: M1R4G376
   links:
-    - https://m1r4g3.github.io/jeedom-plugins-doc
+    - https://m1r4g376.github.io/jeedom-plugins-doc
 ---
