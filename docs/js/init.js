@@ -5,12 +5,12 @@ var docMenu = [
     fr_FR : "Documentation",
     en_US : "Documentation",
     de_DE : "Dokumentation",
-    link : "/jeedom-plugins-doc/#LANG#/#PLUGIN#_doc"
+    link : "/jeedom-plugin-doc/#LANG#/#PLUGIN#_doc"
   }, {
     fr_FR : "Changelog",
     en_US : "Changelog",
     de_DE : "Changelog",
-    link : "/jeedom-plugins-doc/#LANG#/#PLUGIN#_changelog"
+    link : "/jeedom-plugin-doc/#LANG#/#PLUGIN#_changelog"
   }, {
     divider : true
   }
@@ -102,7 +102,7 @@ function genText(_menu, _lang) {
 }
 
 $(function() {
-  document.title = 'Documentation plugins Jeedom'
+  document.title = 'Documentation plugin Jeedom'
   $('.sidenav').sidenav();
   setTimeout(function() {
     if ($('#slide-out').length > 0 && window.matchMedia("only screen and (max-width: 760px)").matches) {
