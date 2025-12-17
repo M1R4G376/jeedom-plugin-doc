@@ -5,12 +5,12 @@ var docMenu = [
     fr_FR : "Documentation",
     en_US : "Documentation",
     de_DE : "Dokumentation",
-    link : "/jeedom-plugin-doc/#LANG#/#PLUGIN#_doc"
+    link : "/jeedom-plugin-doc/#LANG#/index"
   }, {
     fr_FR : "Changelog",
     en_US : "Changelog",
     de_DE : "Changelog",
-    link : "/jeedom-plugin-doc/#LANG#/#PLUGIN#_changelog"
+    link : "/jeedom-plugin-doc/#LANG#/changelog"
   }, {
     divider : true
   }
